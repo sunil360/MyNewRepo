@@ -8,6 +8,7 @@ namespace testinging
 	public class MainActivity : Activity
 	{
 		int count = 1;
+		int cccount = 10;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
